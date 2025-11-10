@@ -1,6 +1,6 @@
 # Desarrollo de un algoritmo de reducción de ruido en señales de voz utilizando Redes Generativas Antagónicas
 
-**Tesis final presentada para obtener el título de Ingeniero de Sonido de la Universidad Nacional de Tres de Febrero (UNTREF)**
+**Tesis en curso para obtener el título de Ingeniero de Sonido de la Universidad Nacional de Tres de Febrero (UNTREF)**
 
 ---
 
